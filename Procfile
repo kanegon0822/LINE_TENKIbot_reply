@@ -1,0 +1,1 @@
+web: gunicorn tenki_reply_bot:app --log-file=-

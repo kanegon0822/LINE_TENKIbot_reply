@@ -1,0 +1,6 @@
+Flask
+gunicorn
+line-bot-sdk
+psycopg2
+requests
+json
